@@ -2,6 +2,9 @@
 
 A simple and interactive React application to calculate the growth of your investments over time.
 
+## 🌐 Live Demo
+👉 https://maksym-yaremko-investment-calculator.netlify.app/
+
 The app allows you to:
 
 - Input your **initial investment**, **annual investment**, **expected return**, and **duration**.
