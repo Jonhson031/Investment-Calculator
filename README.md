@@ -44,12 +44,5 @@ The app allows you to:
 
 3. Results are displayed in a table that updates instantly as you change inputs.
 
----
 
-## 🚀 Getting Started
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Jonhson031/Investment-Calculator.git
-cd Investment-Calculator
